@@ -1,16 +1,14 @@
-## Hi there 👋
+Olá! Meu nome é Thales Fernandes e sou Desenvolvedor Web Front-End. Atualmente, estou focado em criar aplicações responsivas, performáticas e com boas práticas de código.
 
-<!--
-**Thalesffdev/Thalesffdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+No momento, estou estudando React, com o objetivo de me tornar um Desenvolvedor Full Stack.
 
-Here are some ideas to get you started:
+Busco oportunidades na área de Front-End Júnior que me permitam atuar em um ambiente de desenvolvimento colaborativo e participar de projetos que contribuam para minha evolução profissional.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Caso se interesse pelos meus projetos, será um prazer trocar ideias e, quem sabe, trabalharmos juntos.
+Entre em contato pelo e-mail ou pelas minhas redes sociais:
+
+📧 E-mail: thalesffdev@gmail.com
+
+📱 Instagram: @thalestff
+
+💼 LinkedIn: linkedin.com/in/thalesffdev
