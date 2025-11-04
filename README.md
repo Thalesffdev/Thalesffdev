@@ -1,3 +1,5 @@
+#💫 Muito Prazer! 
+
 Olá! Meu nome é Thales Fernandes e sou Desenvolvedor Web Front-End. Atualmente, estou focado em criar aplicações responsivas, performáticas e com boas práticas de código.
 
 No momento, estou estudando React, com o objetivo de me tornar um Desenvolvedor Full Stack.
