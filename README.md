@@ -59,18 +59,6 @@ HTML & CSS Avançado · JavaScript Avançado · TypeScript · React.js · Tailwi
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Thalesffdev&show_icons=true&theme=github_dark&hide_border=true&title_color=22c55e&icon_color=22c55e&bg_color=0d1117)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thalesffdev&layout=compact&theme=github_dark&hide_border=true&title_color=22c55e&bg_color=0d1117)
-
-</div>
-
----
-
 ## 📬 Vamos conversar?
 
 Se você tem uma oportunidade, um projeto ou só quer trocar uma ideia sobre tecnologia — me chama. Respondo rápido. 🚀
