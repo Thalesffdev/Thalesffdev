@@ -2,11 +2,11 @@
 
 ### Desenvolvedor Front-End | Engenharia de Software | Viçosa - MG
 
-Sou desenvolvedor **Front-End** com foco em criar interfaces **responsivas, performáticas e com boas práticas de código** — do layout ao deploy, entregando projetos reais para clientes reais.
+Sou desenvolvedor **Front-End** com foco em criar interfaces **responsivas, Escalaveis e com boas práticas de código** do layout ao deploy, entregando projetos reais para clientes reais.
 
-Tenho experiência prática com **HTML, CSS, JavaScript, TypeScript, React e Tailwind CSS**, usando Git e GitHub em todos os projetos. Trabalho orientado a resultado, com atenção a SEO, acessibilidade e experiência do usuário.
+Tenho experiência prática com **HTML, CSS, JavaScript, TypeScript, React e Tailwind CSS**, usando Git e GitHub em todos os projetos. Trabalho visando o melhor resultado levando em conta o problema a ser solucionado e também como será a experiencia de quem vai usar a solução, sempre pensando em detalhes como SEO, acessibilidade e experiência do usuário.
 
-Atualmente cursando **Bacharelado em Engenharia de Software** e expandindo minha stack em direção ao **Full Stack** — estudando React avançado, consumo de APIs REST e Node.js.
+Atualmente cursando **Bacharelado em Engenharia de Software** e expandindo minha stack em direção ao **Full Stack** estudando React avançado, consumo de APIs REST , IA e Node.js.
 
 > 💼 **Aberto a estágio e oportunidades CLT** — presencial em Viçosa-MG ou remoto.
 
@@ -40,12 +40,15 @@ Atualmente cursando **Bacharelado em Engenharia de Software** e expandindo minha
 
 ## 🤝 Soft Skills
 
-![Comunicação](https://img.shields.io/badge/Comunicação-22c55e?style=flat-square)
+![Boa Comunicação (Falando e Ouvindo)](https://img.shields.io/badge/Comunicação-22c55e?style=flat-square)
 ![Trabalho em equipe](https://img.shields.io/badge/Trabalho%20em%20equipe-22c55e?style=flat-square)
 ![Proatividade](https://img.shields.io/badge/Proatividade-22c55e?style=flat-square)
 ![Aprendizado rápido](https://img.shields.io/badge/Aprendizado%20r%C3%A1pido-22c55e?style=flat-square)
-![Resolução de problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20problemas-22c55e?style=flat-square)
+![Foco em resolução de problemas](https://img.shields.io/badge/Resolu%C3%A7%C3%A3o%20de%20problemas-22c55e?style=flat-square)
 ![Atenção a detalhes](https://img.shields.io/badge/Aten%C3%A7%C3%A3o%20a%20detalhes-22c55e?style=flat-square)
+![Raciocínio lógico](https://img.shields.io/badge/Racioc%C3%ADnio%20l%C3%B3gico-22c55e?style=flat-square)
+![Pensamento analítico](https://img.shields.io/badge/Pensamento%20anal%C3%ADtico-22c55e?style=flat-square)
+![Pensamento criativo](https://img.shields.io/badge/Pensamento%20criativo-22c55e?style=flat-square)
 
 ---
 
@@ -55,13 +58,13 @@ Atualmente cursando **Bacharelado em Engenharia de Software** e expandindo minha
 Centro Universitário União das Américas — Descomplica | 2026 → 2030
 
 📚 **Formação Profissionalizante Front-End** — B7Web
-HTML & CSS Avançado · JavaScript Avançado · TypeScript · React.js · Tailwind · Git · Prompt Engineering
+HTML & CSS Avançado · JavaScript Avançado · TypeScript · React.js · Tailwind · Git · Prompt Engineering, Produtividade com IA
 
 ---
 
 ## 📬 Vamos conversar?
 
-Se você tem uma oportunidade, um projeto ou só quer trocar uma ideia sobre tecnologia — me chama. Respondo rápido. 🚀
+Se você tem uma oportunidade, um projeto ou só quer trocar uma ideia sobre tecnologia me chama. Eu Respondo rápido. 🚀
 
 <div align="center">
 
